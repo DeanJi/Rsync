@@ -1,0 +1,8 @@
+.ssh
+.subversion
+.svn
+.history
+.bash_history
+.snapshot
+bak/*
+log/*
